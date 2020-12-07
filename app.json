@@ -1,0 +1,12 @@
+{
+  "name": "Millionaire_Game",
+  "displayName": "Millionaire_Game",
+  "expo": {
+    "name": "Millionaire_Game",
+    "slug": "Millionaire_Game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
